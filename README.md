@@ -1,6 +1,8 @@
-# React + TypeScript + Vite
+# Youtube Home Page UI Clone 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the Landing page Clone of Youtube ( responsive ) 
+
+
 
 Currently, two official plugins are available:
 
