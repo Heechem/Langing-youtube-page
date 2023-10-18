@@ -1,6 +1,24 @@
 # Youtube Home Page UI Clone 
 
+https://lading-youtube-clone.netlify.app/
+
+![image](https://github.com/Heechem/Langing-youtube-page/assets/117024247/69e90923-3ff0-4c3f-b0ef-4ff0f3dd83d9)
+
+
+I have used Mok data from this reposotory ,as this practice is inspired by a tutorial : 
+
+https://github.com/WebDevSimplified/youtube-react-ts-tailwind-home-page/tree/main
+
+
 This is the Landing page Clone of Youtube ( responsive ) 
+
+
+Technoclogie used : 
+
+React .
+TypeScript.
+Tailwind.
+Vite.
 
 
 
